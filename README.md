@@ -64,19 +64,21 @@
 
 <div align="center">
 
-[![Khatwa](https://github-readme-stats.vercel.app/api/pin/?username=hams27&repo=Khatwa&theme=tokyonight&hide_border=true)](https://vercel.com/hams27s-projects/khatwa/DwFbQ8CceNX8poGAJcoUsKp7eEhF)
-[![Basata-website](https://github-readme-stats.vercel.app/api/pin/?username=basataasoftwaresolutions-creator&repo=Basata-website&theme=tokyonight&hide_border=true)](https://vercel.com/basatas-projects/basata-website/6eC4cqSJa9jdmGfW6x8QxPRCfGfD)
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🚶 **Khatwa** | Modern Web Application | [View Live →](https://khatwa-omega.vercel.app/home) |
+| 🏢 **Basataa Website** | Company Official Website | [View Live →](https://basata-website-two.vercel.app/) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=basataasoftwaresolutions-creator&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basataasoftwaresolutions-creator&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hams27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hams27&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
